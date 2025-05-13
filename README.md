@@ -49,7 +49,8 @@ Procedure-:
 ![CommunicationDiagram1](https://github.com/user-attachments/assets/1c8d7a9e-3ba6-426b-acc0-69ae9f80090e)
 
 ## SEQUENCE DIAGRAM:
-![Uploading SequenceDiagram1.jpg…]()
+![SequenceDiagram1](https://github.com/user-attachments/assets/54b38327-5968-4c6b-a7e4-fae6b5c63abf)
+
 
 
 # RESULT:
